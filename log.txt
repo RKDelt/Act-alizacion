@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "RkDelta V.7.3",
-      "code": 24,
+      "code": 23,
       "url": "https://chat.whatsapp.com/JyYeCxes2iPHTY3GxSwrSq",
       "changelog": "- By Axel Herz
 
