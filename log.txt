@@ -7,7 +7,6 @@
       "changelog": "- By Axel Herz
 
 Rediseño De Bottom Tab"
-Nueva Fila Animada"
     }
   ]
 }
