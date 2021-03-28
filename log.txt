@@ -3,10 +3,11 @@
     {
       "version": "RkDelta V.7.3",
       "code": 24,
-      "url": "https://chat.whatsapp.com/JyYeCxes2iPHTY3GxSwrSq",
+      "url": "https://www.mediafire.com/download/khu93wo9qa9yyhd",
       "changelog": "- By Axel Herz
 
 Rediseño De Bottom Tab"
+Nueva Fila Animada"
     }
   ]
 }
