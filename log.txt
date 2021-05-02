@@ -7,8 +7,9 @@
       "changelog": "- By Axel Herz
 
 -Rediseño De Bottom Tab
--Nuevas Animaciones
--Nuevas Categoría Rk"
+-Efectos De Caida
+-Nueva Categoría Rk
+-Sounds Menu"
     }
   ]
 }
