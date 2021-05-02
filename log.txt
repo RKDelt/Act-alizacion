@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "RkDelta V.7.3",
-      "code": 23,
+      "code": 24,
       "url": "https://www.mediafire.com/download/khu93wo9qa9yyhd",
       "changelog": "- By Axel Herz
 
