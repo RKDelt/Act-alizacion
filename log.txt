@@ -1,15 +1,17 @@
 {
   "records": [
     {
-      "version": "RkDelta V.7.3",
+      "version": "RkDelta V7.3",
       "code": 24,
       "url": "https://www.mediafire.com/download/khu93wo9qa9yyhd",
       "changelog": "- By Axel Herz
 
--Rediseño De Bottom Tab
+-Nuevo Clean Caché
 -Efectos De Caida
 -Nueva Categoría Rk
--Sounds Menu"
+-Nuevos Sonidos Send
+-Rediseño De Iconos
+-Nueva Fila Animada"
     }
   ]
 }
