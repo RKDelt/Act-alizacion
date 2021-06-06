@@ -3,7 +3,7 @@
     {
       "version": "RkDelta V7.3.2",
       "code": 27,
-      "url": "https://youtu.be/dT1MOYQdUF0",
+      "url": "https://youtu.be/Jc_QyPGuLKA",
       "changelog": "- By Axel Herz
 
 -Nuevo Rk Profile
