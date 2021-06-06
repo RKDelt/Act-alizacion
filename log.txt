@@ -2,8 +2,8 @@
   "records": [
     {
       "version": "RkDelta V7.3.2",
-      "code": 24,
-      "url": "https://www.mediafire.com/download/khu93wo9qa9yyhd",
+      "code": 27,
+      "url": "https://youtu.be/dT1MOYQdUF0",
       "changelog": "- By Axel Herz
 
 -Nuevo Rk Profile
