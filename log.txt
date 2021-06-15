@@ -2,12 +2,12 @@
   "records": [
     {
       "version": "RkDelta V7.3.2",
-      "code": 27,
+      "code": 28,
       "url": "https://youtu.be/sSpr8NHzW88",
       "changelog": "- By Axel Herz
 
--Nuevo Rk Profile
--Nueva Fila Anim"
+-Fix Rk Profile 2
+-Fix CARD V2 Home"
     }
   ]
 }
