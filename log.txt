@@ -6,7 +6,7 @@
       "url": "https://youtu.be/sSpr8NHzW88",
       "changelog": "- By Axel Herz
 
--Fix Rk Profile 2
+-Fix Rk Style 2
 -Fix CARD V2 Home"
     }
   ]
