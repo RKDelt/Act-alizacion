@@ -1,13 +1,13 @@
 {
   "records": [
     {
-      "version": "RkDelta V7.3.2",
-      "code": 28,
-      "url": "https://youtu.be/sSpr8NHzW88",
+      "version": "RkDelta V7.3.4",
+      "code": 29,
+      "url": "https://youtu.be/s0clmDNKWFA",
       "changelog": "- By Axel Herz
 
--Fix Rk Style 2
--Fix CARD V2 Home"
+-Nuevo Style Profile
+-Nuevos Iconos De Notificacion"
     }
   ]
 }
