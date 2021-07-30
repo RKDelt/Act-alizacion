@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "RkDelta V7.3.4",
+      "version": "RkDelta V7.3.9",
       "code": 29,
       "url": "https://youtu.be/s0clmDNKWFA",
-      "changelog": "- By Axel Herz
+      "changelog": "-Modded By Axel Herz
 
 -Nuevo Style Profile
 -Nuevos Iconos De Notificacion"
