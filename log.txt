@@ -6,8 +6,8 @@
       "url": "https://youtu.be/s0clmDNKWFA",
       "changelog": "-Modded By Axel Herz
 
--Nuevo Style Profile
--Nuevos Iconos De Notificacion"
+-Fix Bottom tab
+-Fix Gridview"
     }
   ]
 }
