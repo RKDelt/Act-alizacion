@@ -7,7 +7,8 @@
       "changelog": "-Modded By Axel Herz
 
 -Fix Bottom tab
--Fix Gridview"
+-Fix Gridview
+-About Desing"
     }
   ]
 }
