@@ -1,14 +1,16 @@
 {
   "records": [
     {
-      "version": "RkDelta V7.3.9",
+      "version": "RkDelta V7.4.0",
       "code": 30,
       "url": "https://www.mediafire.com/download/xc63kat0786y0u0",
       "changelog": "-Modded By Axel Herz
 
--Base V3.7.3F
--Fix Bottom tab
--Fix Gridview
+-Rediseño Style 3
+-Menu Color
+-Fila Rk Black
+-Quick Contac Effects
+-List Menú Effects
 -About Desing"
     }
   ]
