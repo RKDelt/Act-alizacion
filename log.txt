@@ -2,8 +2,8 @@
   "records": [
     {
       "version": "RkDelta V7.4.0",
-      "code": 30,
-      "url": "https://www.mediafire.com/download/xc63kat0786y0u0",
+      "code": 31,
+      "url": "https://youtu.be/vTiV1k3P4Bo",
       "changelog": "-Modded By Axel Herz
 
 -Rediseño Style 3
