@@ -2,14 +2,11 @@
   "records": [
     {
       "version": "RkDelta V7.4.0",
-      "code": 31,
+      "code": 32,
       "url": "https://youtu.be/vTiV1k3P4Bo",
       "changelog": "-Modded By Axel Herz
 
--Rediseño Style 3
--Menu Color
--Fila Rk Black
--Quick Contac Effects
+-Drawer Menu
 -Otros Cambios"
     }
   ]
