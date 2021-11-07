@@ -1,13 +1,13 @@
 {
   "records": [
     {
-      "version": "RkDelta V7.4.1",
+      "version": "RkDelta V7.4.2",
       "code": 31,
       "url": "https://youtu.be/vTiV1k3P4Bo",
       "changelog": "-Modded By Axel Herz
 
 -New Icon Attach 
--New Spalsh 
+-New Splash 
 -New About"
     }
   ]
