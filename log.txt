@@ -6,9 +6,9 @@
       "url": "https://youtu.be/vTiV1k3P4Bo",
       "changelog": "-Modded By Axel Herz
 
--Drawer Menu
--Fix Style 3
--Otros Cambios"
+-New Icon Attach 
+-New Spalsh 
+-New About"
     }
   ]
 }
