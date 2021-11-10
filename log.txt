@@ -6,8 +6,7 @@
       "url": "https://youtu.be/vTiV1k3P4Bo",
       "changelog": "-Modded By Axel Herz
 
--New Icon Attach 
--New Splash 
+-New Icon Attach  
 -New About"
     }
   ]
