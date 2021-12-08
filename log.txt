@@ -6,8 +6,9 @@
       "url": "https://youtu.be/G8E_5wJRb7c",
       "changelog": "-Modded By Axel Herz
 
--New Icon Attach  
--New About"
+-Nuevo menu idiomas
+-Rediseño Profile 1
+-Rediseño Bottom tab"
     }
   ]
 }
