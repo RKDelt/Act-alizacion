@@ -2,13 +2,13 @@
   "records": [
     {
       "version": "D-Music V8.0",
-      "code": 35,
-      "url": "https://youtu.be/G8E_5wJRb7c",
+      "code": 37,
+      "url": "https://youtu.be/1YDZBL3E-EU",
       "changelog": "-Modded By Axel Herz
 
--Nuevo menu idiomas
--Rediseño Profile 1
--Rediseño Bottom tab"
+-Anim Profile V1
+-New Icon notify
+-New Tick Sound"
     }
   ]
 }
