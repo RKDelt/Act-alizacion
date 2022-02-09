@@ -1,14 +1,15 @@
 {
   "records": [
     {
-      "version": "D-Music V8.0",
-      "code": 37,
+      "version": "D-Music V8.1",
+      "code": 39,
       "url": "https://youtu.be/1YDZBL3E-EU",
       "changelog": "-Modded By Axel Herz
 
--Anim Profile V1
--New Icon notify
--New Tick Sound"
+-Nueva Fila Line
+-Nuevo Menú Custom
+-Rediseño Profile2
+-Nueva entry D-M
     }
   ]
 }
