@@ -1,15 +1,10 @@
 {
   "records": [
     {
-      "version": "D-Music V8.1",
-      "code": 39,
-      "url": "https://youtu.be/1YDZBL3E-EU",
-      "changelog": "-Modded By Axel Herz
-
--Nueva Fila Line
--Nuevo Menú Custom
--Rediseño Profile2
--Nueva entry D-M
+      "version": "DELTA YOWA v4.0.1",
+      "code": 41,
+      "url": "https://bit.ly/DELTA401",
+      "changelog": "- Instagram Home UI - Custom Title - Fix Problems"
     }
   ]
 }
