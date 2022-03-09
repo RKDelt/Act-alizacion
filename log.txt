@@ -2,7 +2,7 @@
   "records": [
     {
       "version": "DELTA YOWA v4.0.1",
-      "code": 41,
+      "code": 40,
       "url": "https://bit.ly/DELTA401",
       "changelog": "- Instagram Home UI - Custom Title - Fix Problems"
     }
