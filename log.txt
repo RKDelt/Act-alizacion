@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA YOWA v4.0.1",
+      "version": "D-Music v4.0.1F",
       "code": 41,
       "url": "https://bit.ly/DELTA401",
-      "changelog": "- Instagram Home UI - Custom Title - Fix Problems"
+      "changelog": "- Save Profile - New Ticks - New Icons"
     }
   ]
 }
