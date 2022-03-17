@@ -2,8 +2,8 @@
   "records": [
     {
       "version": "D-Music v4.0.1F",
-      "code": 41,
-      "url": "https://bit.ly/DELTA401",
+      "code": 42,
+      "url": "https://youtu.be/0H__ZUxgjuM",
       "changelog": "- Save Profile - New Ticks - New Icons"
     }
   ]
