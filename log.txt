@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "D-Music v4.0.3F",
+      "version": "D-Music v4.0.4",
       "code": 45,
       "url": "https://youtu.be/TsjCpCJZ_MI",
-      "changelog": "- Custom File Calls & Status - New File Sounds - Fix Profile 1"
+      "changelog": "- Base Update - Fix Bugs - Translation 70%"
     }
   ]
 }
