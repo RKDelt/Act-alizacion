@@ -2,8 +2,8 @@
   "records": [
     {
       "version": "D-Music v4.0.4",
-      "code": 45,
-      "url": "https://youtu.be/TsjCpCJZ_MI",
+      "code": 46,
+      "url": "https://www.mediafire.com/file/ogalhry37c3ft11/D-Music_V4.0.4.apk/file",
       "changelog": "- Base Update - Fix Bugs - Translation 70%"
     }
   ]
