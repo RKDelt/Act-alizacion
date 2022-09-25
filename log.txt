@@ -3,7 +3,7 @@
     {
       "version": "D-Music v4.1.0F",
       "code": 30,
-      "url": "https://youtu.be/yv5W6Wv0Sfw",
+      "url": "https://www.mediafire.com/file/6m363v1mhl9s6py/D-Music_V4.1.0Ext.apk/file",
       "changelog": "- Extended version - bugs fixed"
     }
   ]
