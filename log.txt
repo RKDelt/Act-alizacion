@@ -1,7 +1,7 @@
 {
   "records": [
     {
-      "version": "D-Music v4.1.0F",
+      "version": "D-Music v4.2.0F",
       "code": 50,
       "url": "https://www.mediafire.com/file/6m363v1mhl9s6py/D-Music_V4.1.0Ext.apk/file",
       "changelog": "- New Profile Neomorph - Languages, portugué, indonesio - Más Ticks Icons"
