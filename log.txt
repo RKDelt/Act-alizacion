@@ -4,7 +4,7 @@
       "version": "D-Music v4.2.0F",
       "code": 54,
       "url": "https://youtu.be/-TIFT11yu88",
-      "changelog": "- New Profile Neomorph - Languages, portugué, indonesio - Más Ticks Icons"
+      "changelog": "- Extended version - Spanish translation 83%"
     }
   ]
 }
