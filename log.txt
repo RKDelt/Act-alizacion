@@ -13,7 +13,7 @@
 
     {
 
-      "version": "DELTA YOWA v5.0.3F",
+      "version": "DELTA MUSIC v5.0.3F",
 
       "code": 63,
 
