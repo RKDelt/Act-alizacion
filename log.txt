@@ -1,10 +1,28 @@
+
+
+    
+
+
+
+
+
+
 {
+
   "records": [
+
     {
-      "version": "D-Music v4.2.0F",
-      "code": 64,
-      "url": "https://youtu.be/-TIFT11yu88",
-      "changelog": "- Extended version - Spanish translation 83%"
+
+      "version": "DELTA YOWA v5.0.3F",
+
+      "code": 63,
+
+      "url": "https://bit.ly/DELTA503F",
+
+      "changelog": " - Fix Crash on Start App - Fix Freeze on Some Device - Fix Search on IOS Home UI - AntiBan FM9.65 - LEFT and RIGHT Tab Home UI - Home Drawer View - Favorites Contact access in Home Drawer View - Home ViewPager Animation and Scrollable - Carrousel Stories View"
+
     }
+
   ]
+
 }
