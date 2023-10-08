@@ -1,10 +1,10 @@
 {
   "records": [
     {
-      "version": "DELTA MUSIC v5.0.3F",
-      "code": 67,
-      "url": "https://youtube.com/@AxelHerz",
-      "changelog": " - Fix Crash on Start App - Fix Freeze on Some Device - Fix Search on IOS Home UI - AntiBan FM9.65 - LEFT and RIGHT Tab Home UI - Home Drawer View - Favorites Contact access in Home Drawer View - Home ViewPager Animation and Scrollable - Carrousel Stories View"
+      "version": "DELTA YOWA v5.2.1",
+      "code": 77,
+      "url": "https://bit.ly/DELTA521",
+      "changelog": " - Base FMWA 9.82 - Fix HD Video - Update Prueba"
     }
   ]
 }
